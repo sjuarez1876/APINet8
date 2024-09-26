@@ -7,3 +7,9 @@ Por cada solicitud devuelve un json con un  mensaje  descriptivo de exepción, a
 
 implementación con Net8 (core) se llevo a cabo el uso de interfaces y clases y entity framework core para el acceso a datos. y se llevo a cabo el uso de modelos.
 
+realiza validaciones:
+
+para longitud no mayor a 50 caracteres en el caso del nombre
+para el correo retorna un mensaje en caso de que el formato del correo sea invalido
+y para el caso del campo edad retorna solo contenga números
+
