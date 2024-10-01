@@ -13,3 +13,4 @@ para longitud no mayor a 50 caracteres en el caso del nombre
 para el correo retorna un mensaje en caso de que el formato del correo sea invalido
 y para el caso del campo edad retorna solo contenga números
 
+El patrón de diseño que se utilizó fue para la construcción de la solución fue el tipo Abstract Factory
